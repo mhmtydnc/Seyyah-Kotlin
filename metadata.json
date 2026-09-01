@@ -1,0 +1,6 @@
+{
+  "name": "Rota Rehberi",
+  "description": "Yol üstü tarihi yerleri, doğal güzellikleri, restoranları ve manzaralı durakları canlı varış süreleri ve sesli rehberle sunan akıllı gezi uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
